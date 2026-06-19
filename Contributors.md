@@ -1,5 +1,4 @@
 # Contributors
-
 - [Yashasvi Solanki](https://github.com/Yashasvi-Solanki)
 - [Ashwinkumar K] (https://github.com/Ashwinkumar-k10)
 - [Arsan] (https://github.com/Arsan-sk)
@@ -572,6 +571,7 @@
 - [Hamad Ullah](https://github.com/hammadaiy/)
 - [Han](https://github.com/vy088473)
 - [Haneesh Reddy](https://github.com/Haneesh99)
+- [Hannah Bee] (https://github.com/hanbeecodes)
 - [Hanuman](https://github.com/CH-Hanuman)
 - [Haoyueck](https://github.com/haoyueck)
 - [Hardik kille](https://github.com/hrdk224/first-contributions)
@@ -1012,6 +1012,7 @@
 - [Rysan Deluna aka Ryan](https://github.com/RysanDeluna)
 - [Saee Mane](https://github.com/saeemane05)
 - [SAYEM](https://github.com/11UCRES)
+- [QwQqth](https://github.com/QwQqth)
 - [SIDHARTH](https://github.com/Sid-2302)
 - [SMJ](https://github.com/SeokMinJeon)
 - [SUJAL ZORO](https://github.com/ZORO-JUROO)
@@ -1624,7 +1625,7 @@
 - [Manas Rajdeep](https://github.com/manasrajdeep)
 
 - [Joshua Muinde] (https://github.com/Joshua-Muinde)
-
+- [Aayush Gupta ] (https://github.com/Aayush652-ops)
 - Sahana K (sahanakothandapani1)
 - [Divesh Kumawat](https://github.com/D1v3shh)
 - [Sakshi](https://github.com/sak08322-crypto)
@@ -1654,3 +1655,8 @@
 - [Rudrakash Kurude](https://github.com/Kurude)
 - [Mann Batra](https://github.com/m4nn2609-dot)
 - [Hoon](https://github.com/svartie1-debug)
+- [Havish] (https://github.com/havishgupta)
+- [Kaushikpjain](https://github.com/Kaushikpjain)
+- [konduriprudhvikumar](https://github.com/konduriprudhvikumar)
+- [Siddhesh Khankhoje](https://github.com/SiddheshK1704)
+- [Akshita Choudhary](https://github.com/Alexachaharr)
